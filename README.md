@@ -6,8 +6,10 @@
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contribution](#contribution)
-  - [Testing](#testing)
+  - [Technologies Used](#technologies used)
+  - [Video tutorial](#video tutorial)
+  - [Screenshots](#screenshots)
+  - [Deployed website](#deployed website)
 
  
   ## 🔍 Description:
@@ -19,7 +21,9 @@
 
   
   ## 💻 Usage:
-  The application is deployed to Heroku at: https://booksearchengine2021.herokuapp.com/
+ 
+  
+  ## Technologies Used:
 
 
   ## License:
@@ -27,14 +31,19 @@
   <br/>
   This application is covered by the MIT license.
 
+  ## Video tutorial:
+  https://youtu.be/b0dA_VK4KPM
 
-  ## 👪 Contribution:
-  N.A
+  ## Screenshots:
+  ![1 Capture](https://user-images.githubusercontent.com/82734765/146088776-0a240a14-4ab7-4645-b5c2-c26b40bceb11.JPG)
+  
+  ![2 Capture](https://user-images.githubusercontent.com/82734765/146088796-18bf2c35-f542-464b-bb4a-62ca9dd3e479.JPG)
+  
+  ![3 Capture](https://user-images.githubusercontent.com/82734765/146088818-ea7d36c9-d389-439f-b30b-8e3a40147d50.JPG)
 
 
-  ## ✏️ Testing:
-  N.A
-
+  ## ✏️ Deployed website:
+  The application is deployed to Heroku at: https://booksearchengine2021.herokuapp.com/
 
   ## Questions:
 
