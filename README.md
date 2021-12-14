@@ -17,14 +17,23 @@
 
  
   ## 💾 Installation:
-  Run the following command to install all dependencies: `npm i' Then navifate to the root of the project and run the following command: `npm start`
-
+  Run the following command to install all dependencies: 
+  
+  `npm i`
   
   ## 💻 Usage:
+  To run the application for development on a local server, follow the following steps:
+  1. make sure mongoDB is installed on your application.
+  2. Open a new terminal and run the following command: `npm run develop`
  
-  
   ## Technologies Used:
-
+  - React
+  - Apollo Server
+  - GraphQL
+  - Mongoose
+  - MongoDB
+  - Javascript
+  - Node.js
 
   ## License:
   [![license](https://img.shields.io/badge/license-MIT-green)](https://shields.io)
