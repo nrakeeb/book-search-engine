@@ -6,10 +6,10 @@
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Technologies Used]
-  - [Video tutorial]
-  - [Screenshots]
-  - [Deployed website]
+  - [Technologies Used](#technologies-used)
+  - [Video tutorial](#video-tutorial)
+  - [Screenshots](#screenshots)
+  - [Deployed website](#️-deployed-website)
 
  
   ## 🔍 Description:
